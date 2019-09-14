@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {}
+  },
+  "projects": {
+    "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\TurtleChallenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\TurtleChallenge.Application.csproj",
+        "projectName": "TurtleChallenge.Application",
+        "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\TurtleChallenge.Application.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\TurtleChallenge.Model.csproj": {
+                "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\TurtleChallenge.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\TurtleChallenge.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\TurtleChallenge.CrossCutting.csproj",
+        "projectName": "TurtleChallenge.CrossCutting",
+        "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\TurtleChallenge.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\TurtleChallenge.Application.csproj": {
+                "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Application\\TurtleChallenge.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\TurtleChallenge.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\TurtleChallenge.Model.csproj",
+        "projectName": "TurtleChallenge.Model",
+        "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\TurtleChallenge.Model.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "projectName": "TurtleChallenge",
+        "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\TurtleChallenge.CrossCutting.csproj": {
+                "projectPath": "C:\\y_projects\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.CrossCutting\\TurtleChallenge.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

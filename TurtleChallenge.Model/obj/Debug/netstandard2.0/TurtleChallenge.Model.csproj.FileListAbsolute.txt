@@ -1,0 +1,17 @@
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.deps.json
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.dll
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.pdb
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.csproj.CoreCompileInputs.cache
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.AssemblyInfoInputs.cache
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.AssemblyInfo.cs
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.dll
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.pdb
+C:\y_projetos\RocchiniCorp\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.csprojAssemblyReference.cache
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.deps.json
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.dll
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\bin\Debug\netstandard2.0\TurtleChallenge.Model.pdb
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.csproj.CoreCompileInputs.cache
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.AssemblyInfoInputs.cache
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.AssemblyInfo.cs
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.dll
+C:\y_projects\TurtleChallenge\TurtleChallenge\TurtleChallenge.Model\obj\Debug\netstandard2.0\TurtleChallenge.Model.pdb
